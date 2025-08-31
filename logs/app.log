@@ -1,0 +1,92 @@
+2025-08-31 00:19:46,708 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 01:04:52,962 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 01:05:09,323 | WARNING | window failed: RetryError[<Future at 0x14a0802aed0 state=finished raised TypeError>]
+2025-08-31 01:05:24,847 | WARNING | window failed: RetryError[<Future at 0x14a08038b10 state=finished raised TypeError>]
+2025-08-31 01:05:41,382 | WARNING | window failed: RetryError[<Future at 0x14a08039250 state=finished raised TypeError>]
+2025-08-31 01:05:57,992 | WARNING | window failed: RetryError[<Future at 0x14a08039990 state=finished raised TypeError>]
+2025-08-31 01:06:13,978 | WARNING | window failed: RetryError[<Future at 0x14a0803a090 state=finished raised TypeError>]
+2025-08-31 01:10:01,320 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 01:15:02,263 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 01:15:02,267 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:15:12,501 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:15:13,866 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:15:24,084 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:15:26,111 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:15:36,224 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:15:41,119 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:15:51,388 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:15:59,396 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:16:09,818 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:16:09,819 | WARNING | window failed: RetryError[<Future at 0x1b0c3a07f10 state=finished raised ScraperException>]
+2025-08-31 01:16:09,820 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:16:20,276 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:16:22,050 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:16:32,455 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:16:34,581 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:29:03,040 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 01:29:03,043 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:29:13,330 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:29:15,100 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:29:25,276 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:29:27,380 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:33:27,786 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 01:33:27,790 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:33:37,902 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:33:39,291 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:33:49,279 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:33:51,453 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:34:01,562 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:34:06,459 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:34:16,842 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:37:29,763 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 01:37:29,768 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:37:39,817 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:37:41,022 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 01:37:50,960 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 01:37:53,699 | INFO | Loaded cookies.json for authenticated scraping
+2025-08-31 14:27:02,440 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 14:27:02,447 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 14:27:12,492 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 14:27:13,752 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 14:27:23,999 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 14:27:26,967 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 14:27:37,262 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 14:27:41,541 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 14:31:24,138 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 14:31:24,144 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 14:31:34,505 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 14:31:36,261 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 14:31:46,685 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 14:31:49,144 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:10:35,232 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 15:10:35,237 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:10:43,983 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T06%3A40%3A35%2B00%3A00+until%3A2025-08-31T07%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:10:45,478 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:10:54,391 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T06%3A40%3A35%2B00%3A00+until%3A2025-08-31T07%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:10:57,361 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:11:06,044 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T06%3A40%3A35%2B00%3A00+until%3A2025-08-31T07%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:11:10,475 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:11:19,452 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T06%3A40%3A35%2B00%3A00+until%3A2025-08-31T07%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:11:27,458 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:11:36,216 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T06%3A40%3A35%2B00%3A00+until%3A2025-08-31T07%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:11:36,217 | WARNING | window failed: RetryError[<Future at 0x25c4fd81ad0 state=finished raised ScraperException>]
+2025-08-31 15:11:36,218 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:11:44,904 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T07%3A40%3A35%2B00%3A00+until%3A2025-08-31T08%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:11:45,940 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:11:54,950 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T07%3A40%3A35%2B00%3A00+until%3A2025-08-31T08%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:11:57,593 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:12:06,398 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T07%3A40%3A35%2B00%3A00+until%3A2025-08-31T08%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:12:11,198 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:12:20,033 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T07%3A40%3A35%2B00%3A00+until%3A2025-08-31T08%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:12:28,037 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:12:36,792 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T07%3A40%3A35%2B00%3A00+until%3A2025-08-31T08%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:12:36,793 | WARNING | window failed: RetryError[<Future at 0x25c4fdb19d0 state=finished raised ScraperException>]
+2025-08-31 15:12:36,794 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:12:45,574 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T08%3A40%3A35%2B00%3A00+until%3A2025-08-31T09%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:12:47,101 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:12:55,868 | ERROR | Error during scraping: 4 requests to https://twitter.com/search?f=live&lang=en&q=%23nifty50+since%3A2025-08-31T08%3A40%3A35%2B00%3A00+until%3A2025-08-31T09%3A40%3A35%2B00%3A00&src=spelling_expansion_revert_click failed, giving up.
+2025-08-31 15:12:58,693 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:13:38,061 | INFO | Collecting 3 windows across 4 tags
+2025-08-31 15:13:38,065 | INFO | Loaded 2 Twitter auth cookies
+2025-08-31 15:13:48,439 | ERROR | Error during scraping: 4 requests to https://api.twitter.com/1.1/guest/activate.json failed, giving up.
+2025-08-31 15:13:49,781 | INFO | Loaded 2 Twitter auth cookies

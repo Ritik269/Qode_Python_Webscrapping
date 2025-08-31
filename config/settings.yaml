@@ -1,0 +1,9 @@
+hashtags: ["nifty50", "sensex", "intraday", "banknifty"]
+min_tweets: 2000
+lookback_hours: 3
+chunk_minutes: 60
+max_workers: 1
+raw_dir: "data/raw"
+curated_dir: "data/curated"
+locale: "en_IN"
+plot_sample: 12000
