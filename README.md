@@ -47,6 +47,7 @@ market-intel/
 
 # Requirements
 Python 3.9+
+
 Dependencies listed in requirements.txt
 
 
