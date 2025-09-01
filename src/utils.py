@@ -46,14 +46,14 @@ def snscrape_search(query: str, limit: int = 100):
     try:
         scraper = sntwitter.TwitterSearchScraper(query)
 
-        # ✅ Inject Bearer token into session headers
+        # Inject Bearer token into session headers
         BEARER_TOKEN = "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA"
         scraper._session.headers.update({
             "Authorization": f"Bearer {BEARER_TOKEN}",
             "User-Agent": "Mozilla/5.0",
         })
 
-        # ✅ Load cookies.json (auth_token, ct0, etc.)
+        # Load cookies.json (auth_token, ct0, etc.)
         cookies_path = pathlib.Path("cookies.json")
         if cookies_path.exists():
             try:
@@ -71,7 +71,7 @@ def snscrape_search(query: str, limit: int = 100):
             except Exception as ce:
                 logger.warning(f"Failed to load cookies.json: {ce}")
 
-        # ✅ Collect tweets
+        # Collect tweets
         for i, tweet in enumerate(scraper.get_items()):
             if i >= limit:
                 break
