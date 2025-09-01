@@ -23,8 +23,11 @@ market-intel/
 
 # To Run the code
 1) Create virtual environment :
+   
 -python -m venv venv
+
 -source venv/bin/activate   # Linux/Mac
+
 -venv\Scripts\activate      # Windows
 
 2)Install dependencies:
